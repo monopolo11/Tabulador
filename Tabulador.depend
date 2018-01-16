@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441825210 source:c:\users\bernardo ruiz\documents\coding\tabulador\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+
